@@ -118,9 +118,9 @@ analytics:
 # Site Author
 author:
   name             : "Wenbo YI"
-  avatar           : "/Users/wenboyi/Documents/GitHub/WenboYI/assets/image/IMG_2666.JPG"
+  avatar           : "/assets/image/IMG_2666.JPG"
   bio              : "Music Cognition / Auditory Neuroscience"
-  location         : "Monteal, Canada"
+  location         : "Monteal, Quebec, Canada"
   #email            : "wenbo.yi@mail.mcgill.ca"
   links:
     - label: "Email"
@@ -319,7 +319,7 @@ compress_html:
 
 sidebar:
   title: "Wenbo Yi"
-  image: "/assets/images/sidebar-profile.png" # Path to your profile image
+  image: "/assets/image/IMG_2666.JPG" # Path to your profile image
   text: "Music Cognition/Nonlinear Dynamics"
   links:
     - title: "GitHub"

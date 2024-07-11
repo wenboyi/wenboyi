@@ -13,15 +13,15 @@ class: wide
 - **Ph.D. in Experimental Psychology**: McGill University, Montreal, Canada (2022–2027 expected)
   - Advisors: [Dr. Caroline Palmer](https://www.mcgill.ca/spl/palmer)
   - Committee: [Dr. Mathieu Roy](https://www.mcgill.ca/psychology/mathieu-roy), [Dr. Signy Sheldon](https://www.mcgill.ca/psychology/signy-sheldon)
-  - GPA 4.0/4.0
+  - GPA: 4.0/4.0
 - **M.Phil. in Music Technology**: University of Oslo, Oslo, Norway (2020–2022)
   - Advisors: [Dr. Alexander Refsum Jensenius](https://www.uio.no/ritmo/english/people/management/alexanje/index.html) and [Dr. Simon Høffding](https://portal.findresearcher.sdu.dk/en/persons/simon-h%C3%B8ffding)
   - Thesis: [When Hearts Beat as One – Cardiac Dynamics and Synchrony in String Quartet Performances](https://www.duo.uio.no/handle/10852/96059)
-  - GPA 3.88/4.0
+  - GPA: 3.88/4.0
 
 ### Experience
 - Guest Researcher, FRONT Neurolab, Department of Psychology, University of Oslo, 2022-2024
-- Research Intern, National Research Council, Canada, 2023
+- Research Intern, Biomedical Data Intelligence Team, National Research Council , Canada, 2023
 
 ### Selected Honors and Awards
 - NSERC-CREATE Graduate Award in Complex Dynamics, 2022-2024
