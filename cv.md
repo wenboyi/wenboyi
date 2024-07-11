@@ -20,8 +20,8 @@ class: wide
   - GPA: 3.88/4.0
 
 ### Experience
-- Guest Researcher, FRONT Neurolab, Department of Psychology, University of Oslo, 2022-2024
-- Research Intern, Biomedical Data Intelligence Team, National Research Council , Canada, 2023
+- Guest Researcher, FRONT Neurolab, Department of Psychology, University of Oslo, Noryway, 2022-2024
+- Research Intern, Biomedical Data Intelligence Team, National Research Council, Canada, 2023
 
 ### Selected Honors and Awards
 - NSERC-CREATE Graduate Award in Complex Dynamics, 2022-2024
