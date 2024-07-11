@@ -2,6 +2,9 @@
 title: "Curriculum Vitae"  # Change for each file
 layout: single
 permalink: /cv/  # Change for each file
+author_profile: true
+class: wide
+
 ---
 
 ## Wenbo YI
@@ -30,7 +33,6 @@ permalink: /cv/  # Change for each file
 - TongXi Scholarship, 2016
 - First Prize, Second YAMAHA China National Piano Competition, 2016
 
-
 ### Talk & Posters
 - Yi, W., Palmer, C., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. Society for Music Perception and Cognition Conference 2024, Banff, Canada.
 - Yi, W., Palmer, C., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. The Neurosciences and Music Conference, Helsinki, Finland.
@@ -47,6 +49,10 @@ permalink: /cv/  # Change for each file
 - Teaching Assistant for PSYC337: Introduction to Psychopathology (Summer 2024)
 - Teaching Assistant for PSYC212: Perception (Winter 2024)
 - Teaching Assistant for PSYC352: Research Methods and Laboratory in Cognitive Psychology (Fall, 2023)
+
+
+
+
 
 
 

@@ -23,7 +23,7 @@ title                    : "Wenbo Yi's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wenbo Yi"
-description              : "An amazing website."
+description              : "Wenbo Yi's Homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -35,6 +35,8 @@ words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
+#show_recent_posts:          false
+
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -69,7 +71,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -116,25 +118,28 @@ analytics:
 # Site Author
 author:
   name             : "Wenbo YI"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cognitive Science / Auditory Neuroscience / Music Cognition / Nonlinear Dynamics"
-  location         : "McGill University, Montreal, Quebec, Canada"
-  email            : "wenbo.yi@mail.mcgill.ca"
+  avatar           : "/Users/wenboyi/Documents/GitHub/WenboYI/assets/image/IMG_2666.JPG"
+  bio              : "Music Cognition / Auditory Neuroscience"
+  location         : "Monteal, Canada"
+  #email            : "wenbo.yi@mail.mcgill.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url:   "wenbo.yi@mail.mcgill.ca"
+      url:   "mailto:wenbo.yi@mail.mcgill.ca"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/wenbo_yi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/wenbo-yi-08725a154/"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - #label: "GitHub"
+      #icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
@@ -143,23 +148,23 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - #label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - #label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - #label: "GitHub"
+      #icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    - #label: "GitLab"
+      #icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - #label: "Bitbucket"
+      #icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - #label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
       # url:
 
 
@@ -233,7 +238,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
+paginate: 0 # amount of posts to show
 paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
@@ -312,6 +317,19 @@ compress_html:
     envs: development
 
 
+sidebar:
+  title: "Wenbo Yi"
+  image: "/assets/images/sidebar-profile.png" # Path to your profile image
+  text: "Music Cognition/Nonlinear Dynamics"
+  links:
+    - title: "GitHub"
+      url: "https://github.com/yourusername"
+    - title: "LinkedIn"
+      url: "https://www.linkedin.com/in/yourusername/"
+    - title: "Twitter"
+      url: "https://twitter.com/yourusername"
+  show_recent_posts: false
+
 # Defaults
 defaults:
   # _posts
@@ -322,6 +340,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_recent_posts: false
+
+
+

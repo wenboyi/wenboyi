@@ -2,13 +2,15 @@
 title: "Publications"  # Change for each file
 layout: single
 permalink: /publications/  # Change for each file
+author_profile: true
+class: wide
 ---
 
  <sup>**Shared first author*</sup> 
 - **Yi, W.**, Palmer, C., Serian, A., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. submitted.
 
 - Høffding, S.*, **Yi, W.** *, Lippert, E., Gonzalez Sanchez, V., Bishop, L., Laeng, B., Danielsen, A.,
-Jensenius, A. & Wallot, S. (2022). Into the Hive-mind: Shared absorption and cardiac interrelations in expert and student string quartets. Music & Science, 6, doi: 10.1177/20592043231168597.
+Jensenius, A. & Wallot, S. (2023). Into the Hive-mind: Shared absorption and cardiac interrelations in expert and student string quartets. Music & Science, 6, doi: 10.1177/20592043231168597.
 
 - **Yi, W.**(2022). When hearts beat as one - cardiac dynamics and synchrony in string quartet performances. Master Thesis. University of Oslo.
   

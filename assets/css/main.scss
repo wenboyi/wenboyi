@@ -7,3 +7,29 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+body {
+    font-size: 17px; // Change this value to your preferred font size
+}
+
+h1 {
+    font-size: 1.7em; // Adjust as needed
+}
+
+h2 {
+    font-size: 1.5em; // Adjust as needed
+}
+
+p {
+    font-size: 1em; // Adjust as needed
+}
+
+.page__content {
+    max-width: 5000px; // Adjust this value to make the content wider
+    margin: 0 auto;    // Center the content
+    padding: 0 15px;   // Add some padding to the sides
+}
+
+/* assets/css/main.scss */
+/*@import "minimal-mistakes";*/
+
