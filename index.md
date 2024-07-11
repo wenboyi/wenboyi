@@ -9,7 +9,7 @@ I am a Ph.D. student in Cognitive Psychology at [McGill University, Canada](http
 
 My research focus on human behavior related to music perception and production, with an emphasis on the mechanisms of rhythmic entrainment. I am especially intrigued by how rhythmic entrainment facilitates human coordination in motor, physiological, and neural oscillations, and how entrainment can be used as an evaluation and therapeutic tool in health-related applications.
 
-Beyond academia, I have a deep passion for classical music. My journey as a concert pianist began at age five, leading to performances in major concert halls and multiple championships at national and provincial levels in China. These experiences have profoundly shaped my interest in music as both an art form and a fundamental perspective on human behavior in science.
+Beyond academia, I have a deep passion for classical music. My journey as a concert pianist began at age five, leading to performances in major concert halls and multiple championships at national and provincial levels in China. These experiences have profoundly shaped my interest in music as both an art form and a fundamental perspective on human behavior in science, and now you can (frequently) find me in Montreal's Place des Arts auditorium:)
 
 ## Contact Information
 

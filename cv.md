@@ -24,9 +24,9 @@ permalink: /cv/  # Change for each file
 - NSERC-CREATE Graduate Award in Complex Dynamics, 2022-2024
 - Graduate Excellence Award, 2022-2024
 - Best Poster Award, Symposium in Nonlinear Dynamics, 2023
-- Academic Excellence Scholarship, 2019-2020
-- China National Scholarship, 2017-2018
-- First-Class Academic Scholarship, 2016-2019
+- Academic Excellence Scholarship, 2020
+- China National Scholarship, 2017
+- First-Class Academic Scholarship, 2016, 2017, 2018, 2019
 - TongXi Scholarship, 2016
 - First Prize, Second YAMAHA China National Piano Competition, 2016
 
