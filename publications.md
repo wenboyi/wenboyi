@@ -12,7 +12,7 @@ class: wide
 - Høffding, S.*, **Yi, W.** *, Lippert, E., Gonzalez Sanchez, V., Bishop, L., Laeng, B., Danielsen, A.,
 Jensenius, A. & Wallot, S. (2023). Into the Hive-mind: Shared absorption and cardiac interrelations in expert and student string quartets. Music & Science, 6, doi: 10.1177/20592043231168597.
 
-- **Yi, W.**(2022). When hearts beat as one - cardiac dynamics and synchrony in string quartet performances. Master Thesis. University of Oslo.
+- **Yi, W.** (2022). When hearts beat as one - cardiac dynamics and synchrony in string quartet performances. Master Thesis. University of Oslo.
   
 - **Yi, W.** (2022). The reproduction of auditory spatial perception in classical music recordings. Audio Engineering, 2022, 46(7). [In Chinese].
 
