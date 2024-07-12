@@ -11,7 +11,7 @@ class: wide
 
 ### Education
 - **Ph.D. in Experimental Psychology**: McGill University, Montreal, Canada (2022–2027 expected)
-  - Advisors: [Dr. Caroline Palmer](https://www.mcgill.ca/spl/palmer)
+  - Advisor: [Dr. Caroline Palmer](https://www.mcgill.ca/spl/palmer)
   - Committee: [Dr. Mathieu Roy](https://www.mcgill.ca/psychology/mathieu-roy), [Dr. Signy Sheldon](https://www.mcgill.ca/psychology/signy-sheldon)
   - GPA: 4.0/4.0
 - **M.Phil. in Music Technology**: University of Oslo, Oslo, Norway (2020–2022)
@@ -20,8 +20,9 @@ class: wide
   - GPA: 3.88/4.0
 
 ### Experience
-- Guest Researcher, FRONT Neurolab, Department of Psychology, University of Oslo, Noryway, 2022-2024
+- Guest Researcher, FRONT Neurolab, Department of Psychology, University of Oslo, Norway, 2022-2024
 - Research Intern, Biomedical Data Intelligence Team, National Research Council, Canada, 2023
+- Research Assistant, RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion, Oslo, Norway, 2020-2022
 
 ### Selected Honors and Awards
 - NSERC-CREATE Graduate Award in Complex Dynamics, 2022-2024
