@@ -27,6 +27,7 @@ class: wide
 ### Selected Honors and Awards
 - NSERC-CREATE Graduate Award in Complex Dynamics, 2022-2024
 - Graduate Excellence Award, 2022-2024
+- CRBLM Travel Award, 2024
 - Best Poster Award, Symposium in Nonlinear Dynamics, 2023
 - Academic Excellence Scholarship, 2020
 - China National Scholarship, 2017
