@@ -7,7 +7,7 @@ show_recent_posts: false
 ---
 
 
-Welcome to Wenbo YI's Personal Homepage!
+Welcome!
 
 I am a Ph.D. student in Cognitive Psychology at [McGill University, Canada](https://www.mcgill.ca/psychology/), where I am advised by [Dr. Caroline Palmer](https://www.mcgill.ca/spl/palmer). Prior to joining McGill, I trained as an audio engineer at the Bachelor's and Master's levels in China. I then obtained my M.Phil. in Music Technology from the [University of Oslo, Norway](https://www.uio.no/english/index.html), where I also worked as a research assistant in the FRONT Neuro Lab at the [RITMO Center of Excellence](https://www.uio.no/ritmo/english) under the guidance of [Dr. Tor Endestad](https://www.sv.uio.no/psi/english/people/academic/tendesta/) and [Dr. Alexander Refsum Jensenius](https://www.uio.no/ritmo/english/people/management/alexanje/index.html)
 
