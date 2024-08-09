@@ -10,11 +10,11 @@ class: wide
 ## Wenbo YI
 
 ### Education
-- **Ph.D. in Experimental Psychology**: McGill University, Montreal, Canada (2022–2027 expected)
+- **Ph.D. in Experimental Psychology**: McGill University, Canada (2022–2027 expected)
   - Advisor: [Dr. Caroline Palmer](https://www.mcgill.ca/spl/palmer)
   - Committee: [Dr. Mathieu Roy](https://www.mcgill.ca/psychology/mathieu-roy), [Dr. Signy Sheldon](https://www.mcgill.ca/psychology/signy-sheldon)
   - GPA: 4.0/4.0
-- **M.Phil. in Music Technology**: University of Oslo, Oslo, Norway (2020–2022)
+- **M.Phil. in Music Technology**: University of Oslo, Norway (2020–2022)
   - Advisors: [Dr. Alexander Refsum Jensenius](https://www.uio.no/ritmo/english/people/management/alexanje/index.html) and [Dr. Simon Høffding](https://portal.findresearcher.sdu.dk/en/persons/simon-h%C3%B8ffding)
   - Thesis: [When Hearts Beat as One – Cardiac Dynamics and Synchrony in String Quartet Performances](https://www.duo.uio.no/handle/10852/96059)
   - GPA: 3.88/4.0
@@ -36,15 +36,15 @@ class: wide
 - First Prize, Second YAMAHA China National Piano Competition, 2016
 
 ### Talk & Posters
-- Yi, W., Palmer, C., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. Society for Music Perception and Cognition Conference 2024, Banff, Canada.
-- Yi, W., Palmer, C., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. The Neurosciences and Music Conference, Helsinki, Finland.
-- Yi, W., Palmer, C., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. CRBLM Conference, Montreal, Canada.
-- Ferris, C., Scheuric, R., Yi, W., Palmer, C., Sheldon, S. (2024). Dissociable neural mechanisms for encoding of memories associated with conceptual and visual-perceptual detail. CRBLM Conference, Montreal, Canada.
-- Ferris, C., Scheuric, R., Yi, W., Palmer, C., Sheldon, S. (2024). Dissociable neural mechanisms for encoding of memories associated with conceptual and visual-perceptual detail. Cognitive Neuroscience Society Conference, Toronto, Canada.
-- Yi, W., Palmer, C., Roy, M. (2023). Effects of musical tempo and individual differences on pain perception. Entrainment Workshop, RITMO, University of Oslo, Norway.
-- Yi, W., Palmer, C., Roy, M. (2023). Effects of musical tempo and spontaneous rates on pain perception. NSERC-CREATE Symposium in Nonlinear Dynamics, Montreal, Canada.
-- Bishop, L., Høffding, S., Yi, W., Laeng, B. (2022). Eyes and hearts of adepts and experts: Physiological rhythms in string quartets. Conference on Music and Eye-tracking, Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany.
-- Yi, W. (2021). A pilot study of expressive body movement on audio parameters of piano performances. 2nd Nordic Sound and Music Computing Conference, Aalborg University, Copenhagen, Denmark.
+- **Yi, W.**, Palmer, C., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. Society for Music Perception and Cognition Conference 2024, Banff, Canada.
+- **Yi, W.**, Palmer, C., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. The Neurosciences and Music Conference, Helsinki, Finland.
+- **Yi, W.**, Palmer, C., Roy, M. (2024). Individual endogenous rhythms maximize music-induced pain reduction. CRBLM Conference, Montreal, Canada.
+- Ferris, C., Scheuric, R., **Yi, W.**, Palmer, C., Sheldon, S. (2024). Dissociable neural mechanisms for encoding of memories associated with conceptual and visual-perceptual detail. CRBLM Conference, Montreal, Canada.
+- Ferris, C., Scheuric, R., **Yi, W.**, Palmer, C., Sheldon, S. (2024). Dissociable neural mechanisms for encoding of memories associated with conceptual and visual-perceptual detail. Cognitive Neuroscience Society Conference, Toronto, Canada.
+- **Yi, W.**, Palmer, C., Roy, M. (2023). Effects of musical tempo and individual differences on pain perception. Entrainment Workshop, RITMO, University of Oslo, Norway.
+- **Yi, W.**, Palmer, C., Roy, M. (2023). Effects of musical tempo and spontaneous rates on pain perception. NSERC-CREATE Symposium in Nonlinear Dynamics, Montreal, Canada.
+- Bishop, L., Høffding, S., **Yi, W.**, Laeng, B. (2022). Eyes and hearts of adepts and experts: Physiological rhythms in string quartets. Conference on Music and Eye-tracking, Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany.
+- **Yi, W.** (2021). A pilot study of expressive body movement on audio parameters of piano performances. 2nd Nordic Sound and Music Computing Conference, Aalborg University, Copenhagen, Denmark.
 
 
 ### Teaching Experience
